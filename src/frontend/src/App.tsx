@@ -321,7 +321,7 @@ function AboutSection() {
             <div className="relative">
               <div className="w-72 h-72 lg:w-80 lg:h-96 rounded-2xl overflow-hidden border border-border shadow-card-hover">
                 <img
-                  src="/assets/uploads/IMG_20260306_122647_392-1.webp"
+                  src="/assets/uploads/IMG_20251116_153351_371-1.webp"
                   alt="Sachin Verma"
                   className="w-full h-full object-cover"
                   loading="lazy"
